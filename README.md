@@ -25,6 +25,8 @@
 
 ### Задача 4. Написать программу, решающую поставленную задачу
 
+Ссылка решения задачи на [GitHub](https://github.com/DenNikiten/FinalControlWorkOnTheMainBlock/blob/main/WorkSolution/Program.cs)
+
 // int CountArray(string[] array)
 // {
 //     int count = 0;
